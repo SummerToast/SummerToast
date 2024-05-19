@@ -13,8 +13,8 @@
 
  **Information:**
 
-- 🔭 I’m currently Working on **Hugo Utitlities.**
-- 🤔 I’m looking for help with **Hugo Utitlities.**
-- 🌱 I’m currently Learning  **JavaSrcipt, Python.**
+- 🔭 I’m currently Working on **Byte Bot.**
+- 🤔 I’m looking for help with **Byte Bot.**
+- 🌱 I’m currently Learning  **JavaSrcipt, LuaU.**
 - 🎮 I'm Also a **Gamer, Developer.**
-- ⚡ Be sure to Invite **Hugo Utilities.**
+- ⚡ Be sure to Invite **Byte Bot.**
